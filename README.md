@@ -58,14 +58,18 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-## data.head()
+## 1.data.head()
 ![image](https://github.com/Ragu-123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113915622/70a9544f-6773-427a-9123-1fee2fa2d0ec)
-## data.info()
+## 2.data.info()
 ![image](https://github.com/Ragu-123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113915622/1a340c14-6a06-407a-a2d8-b0b30f5c5c1d)
-
-![image](https://github.com/Ragu-123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113915622/71324018-a8b7-4f59-b260-15add55816ad)
-
-![image](https://github.com/Ragu-123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113915622/ff0e5194-b369-4ab9-a4f4-df3cd95dc057)
+## 3.data.isnull().sum() function
+![image](https://github.com/Ragu-123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113915622/e29a0e28-be99-4b4e-800b-199ec8a5b100)
+## 4.Elbow method graph
+![image](https://github.com/Ragu-123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113915622/bf75b6f5-cae3-4c6a-9829-b28563f7dec1)
+## 5.KMeans clusters
+![image](https://github.com/Ragu-123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113915622/05720132-de27-4e3c-9212-0d3f5683241f)
+## 6.Customer segment Graph
+![image](https://github.com/Ragu-123/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/113915622/bf764508-aab6-48ae-9a65-ec0da3f5ef9c)
 
 
 
